@@ -1,0 +1,79 @@
+dJD,UTC,Object,Exptime,Tilt,File,Sky,Spectrum,Notes
+1.999,20:42,Pluto,300.2,13.2525,mbxgpP201406210033,1040:1080,995:1029,Double spectrum -- not sure why. Two bright rows. Very sharp.
+2.002,20:47,Pluto,300.2,13.2525,mbxgpP201406210034,1037:1067,1000:1030,Double spectrum -- not sure why. Two bright rows. But much fuzzier.
+2.01,20:58,Pluto,272.2,20.3725,mbxgpP201406210041,1042:1072,1008:1027,"Double spectrum -- not sure why. Two bright rows, not very distinct. Star just to bottom of lower one -- tight limits."
+2.013,21:03,Pluto,272.2,20.3725,mbxgpP201406210042,1047:1077,1006:1031,Star just to bottom -- tight limit on rows for spectrum.
+2.073,22:30,HD_146233,2.19,13.2475,mbxgpP201406210049,1040:1070,1016:1034,"Max 60,000 counts. Nearing saturation?? Not sure. No stellar contamination or CRs, for sure. Long tails of fallof to top/bottom of spectrum. But sky syubractin here will be basically unimport -- no lines compared to Pluto, since short exposure."
+2.074,22:30,HD_146233,2.2,13.2475,mbxgpP201406210050,1060:1090,1008:1043,
+2.08,22:39,HD_146233,2.19,20.375,mbxgpP201406210057,1037:1077,1016:1034,
+2.08,22:39,HD_146233,2.19,20.375,mbxgpP201406210058,1041:1071,1016:1034,
+4.001,20:45,Pluto,300.2,13.25,mbxgpP201406230049,1048:1078,1021:1042,
+4.004,20:50,Pluto,300.2,13.25,mbxgpP201406230050,1047:1077,1022:1047,Two stars below
+4.013,21:02,Pluto,272.2,20.3775,mbxgpP201406230057,1051:1081,1027:1046,Mess of asmospheric lines
+4.016,21:07,Pluto,272.2,20.3775,mbxgpP201406230058,1057:1087,1030:1049,"Spectrum is quite flat (ie, doesn’t tilt up/down from one end of CCD to other). All are like this. That's good."
+4.988,20:27,Pluto,300.2,13.25,mbxgpP201406240026,1047:1077,1014:1040,"NB: I see that Steve Potter's tutorial uses 35 lines for the sky, and 45 for the spectrum. So we're in the right ballpark. I am using less than that but it's fine."
+4.992,20:32,Pluto,300.2,13.25,mbxgpP201406240027,1054:1080,1020:1040,
+5.001,20:46,Pluto,272.2,20.3725,mbxgpP201406240040,1060:1085,1019:1045,"Edge of spectrum is sharper at the bottom than top. Maybe due to target motion within slit, or Charon, or?"
+5.005,20:51,Pluto,272.2,20.3725,mbxgpP201406240041,985:1015,1023:1051,"Lots of atmospheric lines. NB: There is a small blob on the chip at 1350,1059. It is there in every image. It is above the spectrum, so maybe better to do sky subtraction *below*, not above? It's about 10% of the brigthness of the spectrum, and a few pixels across, so probably noticeable."
+8.985,20:23,Pluto,300.2,13.2475,mbxgpP201406280032,985:1015,1021:1042,
+8.989,20:28,Pluto,300.2,13.2475,mbxgpP201406280033,985:1010,1020:1043,
+8.997,20:40,Pluto,272.2,20.3775,mbxgpP201406280041,985:1015,1021:1047,
+9.001,20:45,Pluto,272.2,20.3775,mbxgpP201406280042,985:1015,1021:1047,
+12.186,1:11,Pluto,300.2,13.25,mbxgpP201407010020,980:1010,1020:1042,
+12.189,1:17,Pluto,300.2,13.25,mbxgpP201407010021,980:1010,1019:1039,
+12.199,1:30,Pluto,272.2,20.375,mbxgpP201407010034,1046:1076,1014:1037,Did above since it looks very slightly less curvy here -- can do better atmo subtractions
+12.202,1:35,Pluto,272.2,20.375,mbxgpP201407010035,970:1004,1012:1032,
+13.182,1:06,Pluto,300.2,13.2475,mbxgpP201407020053,965:990,943:965,Is this Pluto?? It's in the wrong location and it's very faint. Might not be. Missed?
+13.186,1:11,Pluto,300.21,13.2475,mbxgpP201407020054,965:990,944:962,"Did it above… since Pluto is quite low here, need to do it above to be closer to the center of curvature."
+13.194,1:23,Pluto,272.2,20.375,mbxgpP201407020061,972:997,938:962,
+13.197,1:28,Pluto,272.2,20.375,mbxgpP201407020062,973:996,938:965,
+53.931,19:04,HD_146233,2.19,13.25,mbxgpP201408120033,1145:1175,1084:1124,"So bright! It doesn’t matter where we sample it, really."
+53.931,19:04,HD_146233,2.19,13.25,mbxgpP201408120034,1141:1175,1081:1133,
+53.94,19:18,HD_146233,2.19,20.375,mbxgpP201408120047,1130:1160,1064:1104,
+53.94,19:18,HD_146233,2.19,20.375,mbxgpP201408120048,1123:1163,1065:1099,
+57.955,19:39,HD_146233,2.19,13.2525,mbxgpP201408160078,939:983,999:1040,
+57.955,19:39,HD_146233,2.19,13.2525,mbxgpP201408160079,942:985,1005:1040,
+57.962,19:50,HD_146233,4.19,20.375,mbxgpP201408160092,933:977,1001:1047,
+57.963,19:50,HD_146233,4.19,20.375,mbxgpP201408160093,919:980,996:1051,
+57.963,19:50,HD_146233,2.19,20.375,mbxgpP201408160094,945:985,1004:1045,
+58.053,22:00,Pluto,300.19,13.2475,mbxgpP201408160107,997:1024,1035:1052,"Two bright spectra. Not sure which one it is. I am choosing the second one, which is lower, fainter, and closer to proper position. Also, spectrum of britgher one looks vaguely weird and non-solar. ** I see the bright star in the finder chart. Spectrum agrees with it. I would have deleted it from the queue had I known, but I'm glad I didn't -- I think it is just fine because there is plenty of separation."
+58.056,22:05,Pluto,300.19,13.2475,mbxgpP201408160108,986:1024,1032:1056,
+58.065,22:18,Pluto,272.19,20.3775,mbxgpP201408160121,1047:1080,1028:1050,Same two bright spectra
+58.069,22:23,Pluto,272.19,20.3775,mbxgpP201408160122,1047:1080,1025:1046,Same two bright spectra
+60.046,21:50,Pluto,300.19,13.2475,mbxgpP201408180074,977:1004,1009:1040,Back to one spectrum now.
+60.05,21:55,Pluto,300.19,13.2475,mbxgpP201408180075,1046:1081,1011:1039,
+60.059,22:09,Pluto,275.19,20.3775,mbxgpP201408180088,1043:1079,1008:1034,Back to lots of atmo contam. Measuring above again to get less field curvature.
+60.063,22:14,Pluto,275.19,20.3775,mbxgpP201408180089,1040:1070,1008:1032,Atmo contam
+64.042,21:45,Pluto,300.19,13.2475,mbxgpP201408220040,1065:1090,1037:1061,Faint all around
+64.046,21:50,Pluto,300.2,13.2475,mbxgpP201408220041,995:1024,1032:1060,Star close above -- tight limit and measure sky below.
+64.053,22:00,Pluto,272.2,20.375,mbxgpP201408220048,1000:1025,1033:1056,"Atmo lines, but faint. ** Had to redo this one. Now it is below -- was above and ontop of star."
+64.057,22:05,Pluto,272.2,20.375,mbxgpP201408220049,1000:1025,1030:1055,** Had to redo this one. Now it is below -- was above and ontop of star.
+65.036,21:35,Pluto,300.19,13.2475,mbxgpP201408230036,964:995,1014:1032,
+65.039,21:41,Pluto,300.19,13.2475,mbxgpP201408230037,970:1000,1008:1030,V. faint star above?
+65.049,21:54,Pluto,272.19,20.375,mbxgpP201408230050,986:1000,1007:1029,"V. faint star above. Atmo lines. So sample below, but sampled pretty tight. Keep an eye on this one."
+65.052,21:59,Pluto,272.2,20.375,mbxgpP201408230051,974:1003,1005:1027,V. faint star above. Sampled below.
+67.029,21:26,Pluto,300.19,13.2475,mbxgpP201408250023,970:1004,1014:1039,
+67.033,21:31,Pluto,300.19,13.2475,mbxgpP201408250024,980:1005,1011:1035,
+67.056,22:05,Pluto,272.19,20.3775,mbxgpP201408250037,1035:1060,1007:1027,Atmo lines
+67.06,22:10,Pluto,272.2,20.375,mbxgpP201408250038,1035:1060,1007:1027,
+67.89,18:05,HD_146233,2.19,13.2475,mbxgpP201408260005,942:982,1009:1040,Bright
+67.89,18:05,HD_146233,2.19,13.2475,mbxgpP201408260006,950:980,1009:1040,
+67.895,18:13,HD_146233,2.19,20.3775,mbxgpP201408260013,950:988,1007:1037,
+67.895,18:13,HD_146233,2.19,20.3775,mbxgpP201408260014,970:1000,1007:1033,
+68.031,21:28,Pluto,300.19,13.2475,mbxgpP201408260040,950:976,990:1010,
+68.034,21:33,Pluto,300.19,13.2475,mbxgpP201408260041,940:981,985:1008,
+68.044,21:47,Pluto,272.19,20.3725,mbxgpP201408260054,1006:1036,983:1003,Atmo lines
+68.047,21:52,Pluto,272.19,20.3725,mbxgpP201408260055,1006:1036,983:1003,
+77.863,,HD_146233,2.19,13.2475,mbxgpP201409050029,1183:1222,1127:1155,
+77.863,,HD_146233,2.19,13.2475,mbxgpP201409050030,1176:1215,1126:1155,
+77.863,,HD_146233,2.19,13.2475,mbxgpP201409050031,1071:1109,1125:1153,
+77.863,,HD_146233,2.19,13.2475,mbxgpP201409050032,1190:1240,1118:1153,"Very bright, good."
+77.868,,HD_146233,2.19,20.375,mbxgpP201409050039,1165:1208,1102:1143,
+77.868,,HD_146233,2.19,20.375,mbxgpP201409050040,1155:1193,1110:1133,
+78.004,,Pluto,300.19,13.2525,mbxgpP201409050189,1055:1085,1023:1040,Spectrum looks terrible. Maybe it's Pluto? Not sure. But super faint. And there are a bunch of rows shaded out.
+78.008,,Pluto,300.19,13.2525,mbxgpP201409050190,1050:1074,1024:1034,Spectrum looks terrible. Maybe it's Pluto? Not sure. But super faint. And there are a bunch of rows shaded out.
+78.012,,Pluto,300.19,13.2525,mbxgpP201409050191,1055:1085,1021:1039,
+78.02,,Pluto,300.19,20.375,mbxgpP201409050198,1042:1062,1021:1033,Wood-grain interference pattern? Though strong spectrum.
+78.023,,Pluto,300.19,20.3725,mbxgpP201409050199,1041:1056,1024:1033,"Wood-grain interference pattern? Though strong spectrum. Hard to find good sky, though."
+78.027,,Pluto,300.19,20.3725,mbxgpP201409050200,1038:1058,1022:1032,"Wood-grain interference pattern? Though strong spectrum. Hard to find good sky, though."
+78.031,,Pluto,300.19,20.3725,mbxgpP201409050201,1035:1056,1022:1031,

@@ -1,0 +1,17 @@
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406210051.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406210051.fits
+#time-obs=2014-06-21 22:31:58.265
+#instrument=RSS
+#grating=PG0900
+#graang=13.2475
+#gratilt=13.2475
+#arang=26.4951
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+826.50 3.489945e+03 1.009684e+00 -5.602702e-06 -1.334076e-09
+1026.50 3.490073e+03 1.009321e+00 -4.848048e-06 -1.628195e-09
+1226.50 3.545113e+03 9.057896e-01 5.189201e-05 -1.120915e-08

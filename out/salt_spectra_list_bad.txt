@@ -1,0 +1,5 @@
+# A list of bad regions of the SALT spectra to exclude
+mbxgpP201409050201
+1 100
+; 302 303 0:
+

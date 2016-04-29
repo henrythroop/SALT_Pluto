@@ -1,0 +1,1088 @@
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406210051.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406210051.fits
+#time-obs=2014-06-21 22:31:58.265
+#instrument=RSS
+#grating=PG0900
+#graang=13.2475
+#gratilt=13.2475
+#arang=26.4951
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.490252e+03 1.009472e+00 -5.598045e-06 -1.292578e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406210059.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406210059.fits
+#time-obs=2014-06-21 22:40:56.337
+#instrument=RSS
+#grating=PG0900
+#graang=20.375
+#gratilt=20.375
+#arang=40.74921
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.182756e+03 9.601579e-01 6.818649e-06 -4.374544e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406230051.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406230051.fits
+#time-obs=2014-06-23 20:56:50.955
+#instrument=RSS
+#grating=PG0900
+#graang=13.25
+#gratilt=13.25
+#arang=26.50212
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.491527e+03 1.007441e+00 -5.041842e-06 -1.259445e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406230059.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406230059.fits
+#time-obs=2014-06-23 21:13:33.963
+#instrument=RSS
+#grating=PG0900
+#graang=20.3775
+#gratilt=20.3775
+#arang=40.749615
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.177557e+03 9.731026e-01 -8.372029e-07 -3.186913e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406240028.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406240028.fits
+#time-obs=2014-06-24 20:38:21.069
+#instrument=RSS
+#grating=PG0900
+#graang=13.25
+#gratilt=13.25
+#arang=26.50266
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.492106e+03 1.003563e+00 -1.638270e-06 -2.131026e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406240039.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406240039.fits
+#time-obs=2014-06-24 20:45:06.277
+#instrument=RSS
+#grating=PG0900
+#graang=20.3725
+#gratilt=20.3725
+#arang=40.751235
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.175631e+03 9.832224e-01 -7.992255e-06 -1.888328e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406280034.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406280034.fits
+#time-obs=2014-06-28 20:35:08.410
+#instrument=RSS
+#grating=PG0900
+#graang=13.2475
+#gratilt=13.2475
+#arang=26.50212
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.494444e+03 1.002730e+00 -1.215795e-06 -2.200096e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406280043.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406280043.fits
+#time-obs=2014-06-28 20:51:18.366
+#instrument=RSS
+#grating=PG0900
+#graang=20.3775
+#gratilt=20.3775
+#arang=40.749345
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.176867e+03 9.837624e-01 -8.304303e-06 -1.825231e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201407010022.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201407010022.fits
+#time-obs=2014-07-02 01:23:15.489
+#instrument=RSS
+#grating=PG0900
+#graang=13.25
+#gratilt=13.25
+#arang=26.508735
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.458838e+03 1.073011e+00 -4.462183e-05 6.271503e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201407010033.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201407010033.fits
+#time-obs=2014-07-02 01:29:25.146
+#instrument=RSS
+#grating=PG0900
+#graang=20.375
+#gratilt=20.375
+#arang=40.75785
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.176605e+03 9.835544e-01 -8.099047e-06 -1.891326e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201407020055.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201407020055.fits
+#time-obs=2014-07-03 01:17:55.470
+#instrument=RSS
+#grating=PG0900
+#graang=13.2475
+#gratilt=13.2475
+#arang=26.51238
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.490366e+03 1.010567e+00 -6.717734e-06 -1.049486e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201407020063.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201407020063.fits
+#time-obs=2014-07-03 01:34:22.600
+#instrument=RSS
+#grating=PG0900
+#graang=20.375
+#gratilt=20.375
+#arang=40.756365
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.178514e+03 9.663991e-01 1.393741e-05 -9.932470e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408120035.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408120035.fits
+#time-obs=2014-08-12 19:06:24.209
+#instrument=RSS
+#grating=PG0900
+#graang=13.25
+#gratilt=13.25
+#arang=26.494425
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.489958e+03 1.009689e+00 -4.895976e-06 -1.548119e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408120046.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408120046.fits
+#time-obs=2014-08-12 19:16:12.067
+#instrument=RSS
+#grating=PG0900
+#graang=20.375
+#gratilt=20.375
+#arang=40.74786
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.178950e+03 9.727604e-01 -7.966276e-07 -3.136892e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408160080.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408160080.fits
+#time-obs=2014-08-16 19:40:29.300
+#instrument=RSS
+#grating=PG0900
+#graang=13.2525
+#gratilt=13.2525
+#arang=26.500635
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.496893e+03 1.001466e+00 -2.420813e-07 -2.411643e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408160091.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408160091.fits
+#time-obs=2014-08-16 19:48:31.661
+#instrument=RSS
+#grating=PG0900
+#graang=20.375
+#gratilt=20.375
+#arang=40.75002
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.181721e+03 9.587645e-01 8.707038e-06 -4.844257e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408160109.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408160109.fits
+#time-obs=2014-08-16 22:11:30.223
+#instrument=RSS
+#grating=PG0900
+#graang=13.2475
+#gratilt=13.2475
+#arang=26.51184
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.494438e+03 1.004027e+00 -2.358141e-06 -1.953388e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408160120.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408160120.fits
+#time-obs=2014-08-16 22:17:10.986
+#instrument=RSS
+#grating=PG0900
+#graang=20.3775
+#gratilt=20.3775
+#arang=40.7565
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.176545e+03 9.818002e-01 -5.922809e-06 -2.459743e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408220042.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408220042.fits
+#time-obs=2014-08-22 21:56:54.147
+#instrument=RSS
+#grating=PG0900
+#graang=13.2475
+#gratilt=13.2475
+#arang=26.50617
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.492043e+03 1.007864e+00 -4.737812e-06 -1.475655e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408220050.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408220050.fits
+#time-obs=2014-08-22 22:12:57.651
+#instrument=RSS
+#grating=PG0900
+#graang=20.375
+#gratilt=20.375
+#arang=40.75434
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.177509e+03 9.777361e-01 -4.382878e-06 -2.528926e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408230038.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408230038.fits
+#time-obs=2014-08-23 21:46:59.458
+#instrument=RSS
+#grating=PG0900
+#graang=13.2475
+#gratilt=13.2475
+#arang=26.50698
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.491739e+03 1.008198e+00 -5.223961e-06 -1.325810e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408230049.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408230049.fits
+#time-obs=2014-08-23 21:52:42.159
+#instrument=RSS
+#grating=PG0900
+#graang=20.375
+#gratilt=20.375
+#arang=40.755015
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.176839e+03 9.822313e-01 -8.226427e-06 -1.664402e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408250025.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408250025.fits
+#time-obs=2014-08-25 21:38:13.248
+#instrument=RSS
+#grating=PG0900
+#graang=13.2475
+#gratilt=13.2475
+#arang=26.506035
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.495432e+03 1.001043e+00 -2.467408e-07 -2.385806e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408250036.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408250036.fits
+#time-obs=2014-08-25 21:44:10.505
+#instrument=RSS
+#grating=PG0900
+#graang=20.3775
+#gratilt=20.3775
+#arang=40.752585
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.179283e+03 9.639511e-01 1.035246e-05 -6.211584e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408180076.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408180076.fits
+#time-obs=2014-08-18 22:01:44.394
+#instrument=RSS
+#grating=PG0900
+#graang=13.2475
+#gratilt=13.2475
+#arang=26.507655
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.494596e+03 1.002568e+00 -8.776760e-07 -2.312570e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408180087.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408180087.fits
+#time-obs=2014-08-18 22:07:13.632
+#instrument=RSS
+#grating=PG0900
+#graang=20.3775
+#gratilt=20.3775
+#arang=40.755015
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.176450e+03 9.838502e-01 -8.365071e-06 -1.810765e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408260007.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408260007.fits
+#time-obs=2014-08-26 18:06:47.594
+#instrument=RSS
+#grating=PG0900
+#graang=13.2475
+#gratilt=13.2475
+#arang=26.49996
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.492969e+03 1.006872e+00 -3.839651e-06 -1.635858e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408260015.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408260015.fits
+#time-obs=2014-08-26 18:17:37.379
+#instrument=RSS
+#grating=PG0900
+#graang=20.3775
+#gratilt=20.3775
+#arang=40.74678
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.174413e+03 1.002566e+00 -2.050583e-05 2.322118e-10
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408260042.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408260042.fits
+#time-obs=2014-08-26 21:40:01.639
+#instrument=RSS
+#grating=PG0900
+#graang=13.2475
+#gratilt=13.2475
+#arang=26.50725
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.493861e+03 1.003415e+00 -1.537513e-06 -2.164201e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408260053.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408260053.fits
+#time-obs=2014-08-26 21:46:30.934
+#instrument=RSS
+#grating=PG0900
+#graang=20.3725
+#gratilt=20.3725
+#arang=40.754205
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.176333e+03 9.835563e-01 -8.132199e-06 -1.868591e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406210035.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406210035.fits
+#time-obs=2014-06-21 20:54:18.976
+#instrument=RSS
+#grating=PG0900
+#graang=13.2525
+#gratilt=13.2525
+#arang=26.50617
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.493647e+03 1.004045e+00 -1.979175e-06 -2.046499e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406210043.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406210043.fits
+#time-obs=2014-06-21 21:09:39.516
+#instrument=RSS
+#grating=PG0900
+#graang=20.3725
+#gratilt=20.3725
+#arang=40.75407
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.181698e+03 9.618318e-01 7.194859e-06 -4.769857e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406210035.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406210035.fits
+#time-obs=2014-06-21 20:54:18.976
+#instrument=RSS
+#grating=PG0900
+#graang=13.2525
+#gratilt=13.2525
+#arang=26.50617
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.492745e+03 1.006103e+00 -3.276608e-06 -1.812222e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406210035.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406210035.fits
+#time-obs=2014-06-21 20:54:18.976
+#instrument=RSS
+#grating=PG0900
+#graang=13.2525
+#gratilt=13.2525
+#arang=26.50617
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.493647e+03 1.004045e+00 -1.979175e-06 -2.046499e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406210051.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406210051.fits
+#time-obs=2014-06-21 22:31:58.265
+#instrument=RSS
+#grating=PG0900
+#graang=13.2475
+#gratilt=13.2475
+#arang=26.4951
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.488821e+03 1.012937e+00 -8.007143e-06 -8.066481e-10
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406210059.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406210059.fits
+#time-obs=2014-06-21 22:40:56.337
+#instrument=RSS
+#grating=PG0900
+#graang=20.375
+#gratilt=20.375
+#arang=40.74921
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.177966e+03 9.809282e-01 -5.321862e-06 -2.647693e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406210059.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406210059.fits
+#time-obs=2014-06-21 22:40:56.337
+#instrument=RSS
+#grating=PG0900
+#graang=20.375
+#gratilt=20.375
+#arang=40.74921
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.177966e+03 9.809282e-01 -5.321862e-06 -2.647693e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406230051.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406230051.fits
+#time-obs=2014-06-23 20:56:50.955
+#instrument=RSS
+#grating=PG0900
+#graang=13.25
+#gratilt=13.25
+#arang=26.50212
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.489264e+03 1.010949e+00 -5.429772e-06 -1.547884e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406230059.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406230059.fits
+#time-obs=2014-06-23 21:13:33.963
+#instrument=RSS
+#grating=PG0900
+#graang=20.3775
+#gratilt=20.3775
+#arang=40.749615
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.175944e+03 9.834352e-01 -8.014074e-06 -1.893547e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406240028.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406240028.fits
+#time-obs=2014-06-24 20:38:21.069
+#instrument=RSS
+#grating=PG0900
+#graang=13.25
+#gratilt=13.25
+#arang=26.50266
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.489823e+03 1.009538e+00 -5.871402e-06 -1.236673e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406240039.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406240039.fits
+#time-obs=2014-06-24 20:45:06.277
+#instrument=RSS
+#grating=PG0900
+#graang=20.3725
+#gratilt=20.3725
+#arang=40.751235
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.175686e+03 9.830614e-01 -7.922772e-06 -1.890980e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406280034.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406280034.fits
+#time-obs=2014-06-28 20:35:08.410
+#instrument=RSS
+#grating=PG0900
+#graang=13.2475
+#gratilt=13.2475
+#arang=26.50212
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.490338e+03 1.012651e+00 -8.160959e-06 -7.629993e-10
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406280043.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201406280043.fits
+#time-obs=2014-06-28 20:51:18.366
+#instrument=RSS
+#grating=PG0900
+#graang=20.3775
+#gratilt=20.3775
+#arang=40.749345
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.176960e+03 9.829369e-01 -7.335459e-06 -2.088919e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201407010022.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201407010022.fits
+#time-obs=2014-07-02 01:23:15.489
+#instrument=RSS
+#grating=PG0900
+#graang=13.25
+#gratilt=13.25
+#arang=26.508735
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.470982e+03 1.049091e+00 -3.028426e-05 3.564902e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201407010033.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201407010033.fits
+#time-obs=2014-07-02 01:29:25.146
+#instrument=RSS
+#grating=PG0900
+#graang=20.375
+#gratilt=20.375
+#arang=40.75785
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.176608e+03 9.835115e-01 -8.082494e-06 -1.887832e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201407020055.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201407020055.fits
+#time-obs=2014-07-03 01:17:55.470
+#instrument=RSS
+#grating=PG0900
+#graang=13.2475
+#gratilt=13.2475
+#arang=26.51238
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.492337e+03 1.005664e+00 -3.352424e-06 -1.738568e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408120035.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408120035.fits
+#time-obs=2014-08-12 19:06:24.209
+#instrument=RSS
+#grating=PG0900
+#graang=13.25
+#gratilt=13.25
+#arang=26.494425
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.490745e+03 1.008987e+00 -4.793123e-06 -1.501530e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408120046.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408120046.fits
+#time-obs=2014-08-12 19:16:12.067
+#instrument=RSS
+#grating=PG0900
+#graang=20.375
+#gratilt=20.375
+#arang=40.74786
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.178002e+03 9.809712e-01 -5.530338e-06 -2.497407e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408160080.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408160080.fits
+#time-obs=2014-08-16 19:40:29.300
+#instrument=RSS
+#grating=PG0900
+#graang=13.2525
+#gratilt=13.2525
+#arang=26.500635
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.492812e+03 1.010683e+00 -5.984316e-06 -1.368993e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408160091.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408160091.fits
+#time-obs=2014-08-16 19:48:31.661
+#instrument=RSS
+#grating=PG0900
+#graang=20.375
+#gratilt=20.375
+#arang=40.75002
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.177496e+03 9.932695e-01 -3.369281e-05 5.593789e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408160109.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408160109.fits
+#time-obs=2014-08-16 22:11:30.223
+#instrument=RSS
+#grating=PG0900
+#graang=13.2475
+#gratilt=13.2475
+#arang=26.51184
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.495741e+03 1.001569e+00 -9.289613e-07 -2.209574e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408160120.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408160120.fits
+#time-obs=2014-08-16 22:17:10.986
+#instrument=RSS
+#grating=PG0900
+#graang=20.3775
+#gratilt=20.3775
+#arang=40.7565
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.177150e+03 9.771988e-01 -2.037628e-06 -3.277341e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408180076.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408180076.fits
+#time-obs=2014-08-18 22:01:44.394
+#instrument=RSS
+#grating=PG0900
+#graang=13.2475
+#gratilt=13.2475
+#arang=26.507655
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.491735e+03 1.009724e+00 -6.426031e-06 -1.079483e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408180087.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408180087.fits
+#time-obs=2014-08-18 22:07:13.632
+#instrument=RSS
+#grating=PG0900
+#graang=20.3775
+#gratilt=20.3775
+#arang=40.755015
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.178747e+03 9.712178e-01 8.881638e-07 -3.626175e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408220042.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408220042.fits
+#time-obs=2014-08-22 21:56:54.147
+#instrument=RSS
+#grating=PG0900
+#graang=13.2475
+#gratilt=13.2475
+#arang=26.50617
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.489711e+03 1.014692e+00 -1.083078e-05 7.466980e-11
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408220050.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408220050.fits
+#time-obs=2014-08-22 22:12:57.651
+#instrument=RSS
+#grating=PG0900
+#graang=20.375
+#gratilt=20.375
+#arang=40.75434
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.176553e+03 9.835961e-01 -8.267575e-06 -1.848280e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408230038.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408230038.fits
+#time-obs=2014-08-23 21:46:59.458
+#instrument=RSS
+#grating=PG0900
+#graang=13.2475
+#gratilt=13.2475
+#arang=26.50698
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.489115e+03 1.013419e+00 -7.669326e-06 -1.037953e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408230049.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408230049.fits
+#time-obs=2014-08-23 21:52:42.159
+#instrument=RSS
+#grating=PG0900
+#graang=20.375
+#gratilt=20.375
+#arang=40.755015
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.176824e+03 9.806877e-01 -3.393968e-06 -3.303806e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408250025.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408250025.fits
+#time-obs=2014-08-25 21:38:13.248
+#instrument=RSS
+#grating=PG0900
+#graang=13.2475
+#gratilt=13.2475
+#arang=26.506035
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.498600e+03 9.944940e-01 3.606213e-06 -3.058885e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408250036.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408250036.fits
+#time-obs=2014-08-25 21:44:10.505
+#instrument=RSS
+#grating=PG0900
+#graang=20.3775
+#gratilt=20.3775
+#arang=40.752585
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.176503e+03 9.824957e-01 -6.962225e-06 -2.177584e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408260007.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408260007.fits
+#time-obs=2014-08-26 18:06:47.594
+#instrument=RSS
+#grating=PG0900
+#graang=13.2475
+#gratilt=13.2475
+#arang=26.49996
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.491633e+03 1.009343e+00 -4.659575e-06 -1.620953e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408260015.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408260015.fits
+#time-obs=2014-08-26 18:17:37.379
+#instrument=RSS
+#grating=PG0900
+#graang=20.3775
+#gratilt=20.3775
+#arang=40.74678
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.180785e+03 9.672593e-01 3.395705e-06 -4.053672e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408260042.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408260042.fits
+#time-obs=2014-08-26 21:40:01.639
+#instrument=RSS
+#grating=PG0900
+#graang=13.2475
+#gratilt=13.2475
+#arang=26.50725
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.494817e+03 1.001517e+00 -6.049077e-07 -2.295520e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408260053.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201408260053.fits
+#time-obs=2014-08-26 21:46:30.934
+#instrument=RSS
+#grating=PG0900
+#graang=20.3725
+#gratilt=20.3725
+#arang=40.754205
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.176286e+03 9.838427e-01 -8.479681e-06 -1.773137e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201409050033.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201409050033.fits
+#time-obs=2014-09-05 17:28:14.499
+#instrument=RSS
+#grating=PG0900
+#graang=13.2475
+#gratilt=13.2475
+#arang=26.496585
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.510474e+03 9.765851e-01 1.231058e-05 -4.364960e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201409050041.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201409050041.fits
+#time-obs=2014-09-05 17:36:15.088
+#instrument=RSS
+#grating=PG0900
+#graang=20.375
+#gratilt=20.375
+#arang=40.75083
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.171356e+03 9.711781e-01 2.787870e-06 -3.871217e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201409050192.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201409050192.fits
+#time-obs=2014-09-05 21:07:42.116
+#instrument=RSS
+#grating=PG0900
+#graang=13.2525
+#gratilt=13.2525
+#arang=26.514
+#artilt=26.5
+#filter=PC03400
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 3.491736e+03 1.010181e+00 -6.751415e-06 -1.013048e-09
+
+#WS: Wavelength solution for image /Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201409050202.fits
+#The following parameters were used in determining the solution:
+#name=/Users/throop/Data/SALT_Pluto_Jun14/product/mbxgpP201409050202.fits
+#time-obs=2014-09-05 21:34:35.175
+#instrument=RSS
+#grating=PG0900
+#graang=20.3725
+#gratilt=20.3725
+#arang=40.760955
+#artilt=40.75
+#filter=PC04600
+#Function=polynomial
+#Order=3
+#Starting Data
+1026.50 6.176563e+03 9.826683e-01 -7.333499e-06 -2.058796e-09
+

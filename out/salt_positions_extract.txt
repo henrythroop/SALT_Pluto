@@ -1,0 +1,71 @@
+File                 sky y0:y1         spect y0:y1       Comment
+mbxgpP201408220049   962:1020          1034:1047         22-aug Pluto Red
+mbxgpP201408220048   1000:1025         1034:1048         22-aug Pluto Red
+
+ 1.999      20:42  Pluto      RSS        SPECTROSCOPY     300.20            PG0900     13.2525    mbxgpP201406210033    4           Y     Y     Y     Y  
+ 2.002      20:47  Pluto      RSS        SPECTROSCOPY     300.20            PG0900     13.2525    mbxgpP201406210034    9           Y     Y     Y     Y  
+ 2.010      20:58  Pluto      RSS        SPECTROSCOPY     272.20            PG0900     20.3725    mbxgpP201406210041    20          Y     Y     Y     Y  
+ 2.013      21:03  Pluto      RSS        SPECTROSCOPY     272.20            PG0900     20.3725    mbxgpP201406210042    26          Y     Y     Y     Y  
+ 2.073      22:30  HD_146233  RSS        SPECTROSCOPY       2.19            PG0900     13.2475    mbxgpP201406210049    39          Y     Y     Y     Y  
+ 2.074      22:30  HD_146233  RSS        SPECTROSCOPY       2.20            PG0900     13.2475    mbxgpP201406210050    43          Y     Y     Y     Y  
+ 2.080      22:39  HD_146233  RSS        SPECTROSCOPY       2.19            PG0900     20.375     mbxgpP201406210057    53          Y     Y     Y     Y  
+ 2.080      22:39  HD_146233  RSS        SPECTROSCOPY       2.19            PG0900     20.375     mbxgpP201406210058    56          Y     Y     Y     Y  
+ 4.001      20:45  Pluto      RSS        SPECTROSCOPY     300.20            PG0900     13.25      mbxgpP201406230049    72          Y     Y     Y     Y  
+ 4.004      20:50  Pluto      RSS        SPECTROSCOPY     300.20            PG0900     13.25      mbxgpP201406230050    76          Y     Y     Y     Y  
+ 4.013      21:02  Pluto      RSS        SPECTROSCOPY     272.20            PG0900     20.3775    mbxgpP201406230057    85          Y     Y     Y     Y  
+ 4.016      21:07  Pluto      RSS        SPECTROSCOPY     272.20            PG0900     20.3775    mbxgpP201406230058    89          Y     Y     Y     Y  
+ 4.988      20:27  Pluto      RSS        SPECTROSCOPY     300.20            PG0900     13.25      mbxgpP201406240026   105          Y     Y     Y     Y  
+ 4.992      20:32  Pluto      RSS        SPECTROSCOPY     300.20            PG0900     13.25      mbxgpP201406240027   113          Y     Y     Y     Y  
+ 5.001      20:46  Pluto      RSS        SPECTROSCOPY     272.20            PG0900     20.3725    mbxgpP201406240040   129          Y     Y     Y     Y  
+ 5.005      20:51  Pluto      RSS        SPECTROSCOPY     272.20            PG0900     20.3725    mbxgpP201406240041   132          Y     Y     Y     Y  
+ 8.985      20:23  Pluto      RSS        SPECTROSCOPY     300.20            PG0900     13.2475    mbxgpP201406280032   154          Y     Y     Y     Y  
+ 8.989      20:28  Pluto      RSS        SPECTROSCOPY     300.20            PG0900     13.2475    mbxgpP201406280033   160          Y     Y     Y     Y  
+ 8.997      20:40  Pluto      RSS        SPECTROSCOPY     272.20            PG0900     20.3775    mbxgpP201406280041   171          Y     Y     Y     Y  
+ 9.001      20:45  Pluto      RSS        SPECTROSCOPY     272.20            PG0900     20.3775    mbxgpP201406280042   178          Y     Y     Y     Y  
+ 12.186     01:11  Pluto      RSS        SPECTROSCOPY     300.20            PG0900     13.25      mbxgpP201407010020   200          Y     Y     Y     Y  
+ 12.189     01:17  Pluto      RSS        SPECTROSCOPY     300.20            PG0900     13.25      mbxgpP201407010021   205          Y     Y     Y     Y  
+ 12.199     01:30  Pluto      RSS        SPECTROSCOPY     272.20            PG0900     20.375     mbxgpP201407010034   220          Y     Y     Y     Y  
+ 12.202     01:35  Pluto      RSS        SPECTROSCOPY     272.20            PG0900     20.375     mbxgpP201407010035   227          Y     Y     Y     Y  
+ 13.182     01:06  Pluto      RSS        SPECTROSCOPY     300.20            PG0900     13.2475    mbxgpP201407020053   233          Y     Y     Y     Y  
+ 13.186     01:11  Pluto      RSS        SPECTROSCOPY     300.21            PG0900     13.2475    mbxgpP201407020054   238          Y     Y     Y     Y  
+ 13.194     01:23  Pluto      RSS        SPECTROSCOPY     272.20            PG0900     20.375     mbxgpP201407020061   250          Y     Y     Y     Y  
+ 13.197     01:28  Pluto      RSS        SPECTROSCOPY     272.20            PG0900     20.375     mbxgpP201407020062   252          Y     Y     Y     Y  
+ 53.931     19:04  HD_146233  RSS        SPECTROSCOPY       2.19            PG0900     13.25      mbxgpP201408120033   263          Y     Y     Y     Y  
+ 53.931     19:04  HD_146233  RSS        SPECTROSCOPY       2.19            PG0900     13.25      mbxgpP201408120034   269          Y     Y     Y     Y  
+ 53.940     19:18  HD_146233  RSS        SPECTROSCOPY       2.19            PG0900     20.375     mbxgpP201408120047   285          Y     Y     Y     Y  
+ 53.940     19:18  HD_146233  RSS        SPECTROSCOPY       2.19            PG0900     20.375     mbxgpP201408120048   291          Y     Y     Y     Y  
+ 57.955     19:39  HD_146233  RSS        SPECTROSCOPY       2.19            PG0900     13.2525    mbxgpP201408160078   297          Y     Y     Y     Y  
+ 57.955     19:39  HD_146233  RSS        SPECTROSCOPY       2.19            PG0900     13.2525    mbxgpP201408160079   301          Y     Y     Y     Y  
+ 57.962     19:50  HD_146233  RSS        SPECTROSCOPY       4.19            PG0900     20.375     mbxgpP201408160092   321          Y     Y     Y     Y  
+ 57.963     19:50  HD_146233  RSS        SPECTROSCOPY       4.19            PG0900     20.375     mbxgpP201408160093   322          Y     Y     Y     Y  
+ 57.963     19:50  HD_146233  RSS        SPECTROSCOPY       2.19            PG0900     20.375     mbxgpP201408160094   326          Y     Y     Y     Y  
+ 58.053     22:00  Pluto      RSS        SPECTROSCOPY     300.19            PG0900     13.2475    mbxgpP201408160107   333          Y     Y     Y     Y  
+ 58.056     22:05  Pluto      RSS        SPECTROSCOPY     300.19            PG0900     13.2475    mbxgpP201408160108   337          Y     Y     Y     Y  
+ 58.065     22:18  Pluto      RSS        SPECTROSCOPY     272.19            PG0900     20.3775    mbxgpP201408160121   355          Y     Y     Y     Y  
+ 58.069     22:23  Pluto      RSS        SPECTROSCOPY     272.19            PG0900     20.3775    mbxgpP201408160122   360          Y     Y     Y     Y  
+ 60.046     21:50  Pluto      RSS        SPECTROSCOPY     300.19            PG0900     13.2475    mbxgpP201408180074   370          Y     Y     Y     Y  
+ 60.050     21:55  Pluto      RSS        SPECTROSCOPY     300.19            PG0900     13.2475    mbxgpP201408180075   378          Y     Y     Y     Y  
+ 60.059     22:09  Pluto      RSS        SPECTROSCOPY     275.19            PG0900     20.3775    mbxgpP201408180088   395          Y     Y     Y     Y  
+ 60.063     22:14  Pluto      RSS        SPECTROSCOPY     275.19            PG0900     20.3775    mbxgpP201408180089   397          Y     Y     Y     Y  
+ 64.042     21:45  Pluto      RSS        SPECTROSCOPY     300.19            PG0900     13.2475    mbxgpP201408220040   411          Y     Y     Y     Y  
+ 64.046     21:50  Pluto      RSS        SPECTROSCOPY     300.20            PG0900     13.2475    mbxgpP201408220041   416          Y     Y     Y     Y  
+ 64.053     22:00  Pluto      RSS        SPECTROSCOPY     272.20            PG0900     20.375     mbxgpP201408220048   426          Y     Y     Y     Y  
+ 64.057     22:05  Pluto      RSS        SPECTROSCOPY     272.20            PG0900     20.375     mbxgpP201408220049   436          Y     Y     Y     Y  
+ 65.036     21:35  Pluto      RSS        SPECTROSCOPY     300.19            PG0900     13.2475    mbxgpP201408230036   465          Y     Y     Y     Y  
+ 65.039     21:41  Pluto      RSS        SPECTROSCOPY     300.19            PG0900     13.2475    mbxgpP201408230037   466          Y     Y     Y     Y  
+ 65.049     21:54  Pluto      RSS        SPECTROSCOPY     272.19            PG0900     20.375     mbxgpP201408230050   483          Y     Y     Y     Y  
+ 65.052     21:59  Pluto      RSS        SPECTROSCOPY     272.20            PG0900     20.375     mbxgpP201408230051   488          Y     Y     Y     Y  
+ 67.029     21:26  Pluto      RSS        SPECTROSCOPY     300.19            PG0900     13.2475    mbxgpP201408250023   502          Y     Y     Y     Y  
+ 67.033     21:31  Pluto      RSS        SPECTROSCOPY     300.19            PG0900     13.2475    mbxgpP201408250024   508          Y     Y     Y     Y  
+ 67.056     22:05  Pluto      RSS        SPECTROSCOPY     272.19            PG0900     20.3775    mbxgpP201408250037   523          Y     Y     Y     Y  
+ 67.060     22:10  Pluto      RSS        SPECTROSCOPY     272.20            PG0900     20.375     mbxgpP201408250038   527          Y     Y     Y     Y  
+ 67.890     18:05  HD_146233  RSS        SPECTROSCOPY       2.19            PG0900     13.2475    mbxgpP201408260005   541          Y     Y     Y     Y  
+ 67.890     18:05  HD_146233  RSS        SPECTROSCOPY       2.19            PG0900     13.2475    mbxgpP201408260006   546          Y     Y     Y     Y  
+ 67.895     18:13  HD_146233  RSS        SPECTROSCOPY       2.19            PG0900     20.3775    mbxgpP201408260013   556          Y     Y     Y     Y  
+ 67.895     18:13  HD_146233  RSS        SPECTROSCOPY       2.19            PG0900     20.3775    mbxgpP201408260014   560          Y     Y     Y     Y  
+ 68.031     21:28  Pluto      RSS        SPECTROSCOPY     300.19            PG0900     13.2475    mbxgpP201408260040   580          Y     Y     Y     Y  
+ 68.034     21:33  Pluto      RSS        SPECTROSCOPY     300.19            PG0900     13.2475    mbxgpP201408260041   584          Y     Y     Y     Y  
+ 68.044     21:47  Pluto      RSS        SPECTROSCOPY     272.19            PG0900     20.3725    mbxgpP201408260054   604          Y     Y     Y     Y  
+ 68.047     21:52  Pluto      RSS        SPECTROSCOPY     272.19            PG0900     20.3725    mbxgpP201408260055   606          Y     Y     Y     Y
+
+
